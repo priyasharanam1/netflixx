@@ -1,10 +1,10 @@
 import React from 'react'
 import "./HomeScreen.css"
-import Nav from './Nav'
-import Banner from './Banner'
-import requests from './Request'
-import Row from './Row'
-import {BrowserRouter as Router, Switch, Route} from "react-router-dom"
+import Nav from '../Nav'
+import Banner from '../Banner'
+import requests from '../Request'
+import Row from '../Row'
+// import {BrowserRouter as Router, Switch, Route} from "react-router-dom"
 
 function HomeScreen() {
   return (
